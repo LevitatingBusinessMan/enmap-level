@@ -19,7 +19,7 @@
   "author": "Evelyne Lachance <eslachance@gmail.com> (http://evie.codes/)",
   "license": "ISC",
   "dependencies": {
-    "level": "^3.0.0"
+    "level": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "^4.8.0",
